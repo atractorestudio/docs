@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T19:44:36.965Z" agent="5.0 (X11)" etag="FYHtImSokYl2F1ERdHO8" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-09T19:45:55.944Z" agent="5.0 (X11)" etag="GgDneR501HgPqhbvNmGj" version="13.9.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="868" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="7J4058qPtLSuixQyrS5I-19" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7J4058qPtLSuixQyrS5I-18">
           <mxGeometry width="230" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="7J4058qPtLSuixQyrS5I-20" value="2 imagenes" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="7J4058qPtLSuixQyrS5I-19">
+        <mxCell id="7J4058qPtLSuixQyrS5I-20" value="1 imagen" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="7J4058qPtLSuixQyrS5I-19">
           <mxGeometry width="67" height="53" as="geometry" />
         </mxCell>
         <mxCell id="7J4058qPtLSuixQyrS5I-21" value="textos" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="7J4058qPtLSuixQyrS5I-19">

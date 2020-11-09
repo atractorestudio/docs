@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T16:09:14.395Z" agent="5.0 (X11)" etag="5ndLAkr_l9TuA6FKCKWo" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-09T16:19:02.167Z" agent="5.0 (X11)" etag="E3KITOe1zx_YbeM1V2Nr" version="13.9.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2067" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -170,8 +170,11 @@
         <mxCell id="5yJbUJM4uxWNwQ9DWQAu-49" value="DATA LAYER" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-800" y="960" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5yJbUJM4uxWNwQ9DWQAu-51" value="DATA POOL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5yJbUJM4uxWNwQ9DWQAu-51" value="&lt;div&gt;APPLICATION &lt;br&gt;&lt;/div&gt;&lt;div&gt;LAYER&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-800" y="650" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5yJbUJM4uxWNwQ9DWQAu-52" value="INTEGRATION LAYER" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-790" y="310" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

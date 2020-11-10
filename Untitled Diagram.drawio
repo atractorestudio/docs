@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T12:55:42.873Z" agent="5.0 (X11)" etag="BT1e4RV7lfTdkRsxkYUg" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-10T13:03:37.075Z" agent="5.0 (X11)" etag="339pWka20a0oHLvMxPv_" version="13.9.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2522" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3390" dy="974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -146,7 +146,7 @@
             <mxPoint x="694" y="560" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5yJbUJM4uxWNwQ9DWQAu-43" value="&lt;div&gt;juegos&lt;/div&gt;&lt;div&gt;apps&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="5yJbUJM4uxWNwQ9DWQAu-43" value="&lt;div&gt;juegos/&lt;/div&gt;&lt;div&gt;apps&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="609" y="545" width="85" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5yJbUJM4uxWNwQ9DWQAu-45" value="" style="endArrow=none;dashed=1;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
